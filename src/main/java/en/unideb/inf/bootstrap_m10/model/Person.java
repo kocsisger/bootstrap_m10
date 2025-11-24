@@ -21,7 +21,7 @@ public class Person {
     Integer id;
     String email;
     String password;
-    String fisrtName;
+    String firstName;
     String lastName;
     boolean enabled;
 }
